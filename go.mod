@@ -1,3 +1,3 @@
-module gitlab.com/NebulousLabs/encoding
+module gitlab.com/uplo-tech/encoding
 
 go 1.13
